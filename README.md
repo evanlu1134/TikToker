@@ -20,3 +20,4 @@
 
 9. Playing games
 
+This feature is updated to have higher quality and speed for the users experience.
