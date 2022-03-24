@@ -1,4 +1,5 @@
 # TikToker
 
-Making a Follower Feature
-Like and Share Feature
+1.Making a Follower Feature
+2.Like and Share Feature
+3.Chatbox
